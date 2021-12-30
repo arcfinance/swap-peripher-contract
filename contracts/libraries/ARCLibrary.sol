@@ -20,7 +20,7 @@ library ARCLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'c09cf02c7e4ba38ab3be087e2c330d6f1f7fe0cf6389eed8ee1bc4e1b0e70230' // init code hash
+                hex'8716921db35c6e37001ed4f5231c02a09ff2eb65d3ea77f11dc024ea18e45718' // init code hash
             ))));
     }
 
